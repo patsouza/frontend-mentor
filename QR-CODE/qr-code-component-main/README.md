@@ -6,7 +6,7 @@ Essa parte foi fácil, já conhecia HTML e CSS e só tive uma pequena ajuda com 
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/screenshot.jpg)
 
 ### Links
 
