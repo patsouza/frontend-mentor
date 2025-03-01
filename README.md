@@ -1,3 +1,3 @@
 # Front-End Mentor
 
-Atualização teste
+Repositório para praticar usando os challenges do FrontEnd Mentor.
