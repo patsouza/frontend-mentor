@@ -8,3 +8,6 @@ Essa parte foi fácil, já conhecia HTML e CSS e só tive uma pequena ajuda com 
 
 ![](./images/screenshot.jpg)
 
+### Link externo
+
+[Para ver o projeto clique aqui.](https://frontend-mentor-7moj24t4v-patricias-projects-5b163aee.vercel.app/)
